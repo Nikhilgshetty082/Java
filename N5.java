@@ -6,7 +6,7 @@ class Shape{
         System.out.println("Erasing a shape");}
 
     void erase() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("Not supported yet."); 
     }
 }
 class Circle extends Shape{
